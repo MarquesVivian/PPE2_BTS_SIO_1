@@ -3,10 +3,11 @@
 
 Alan |    
 ------------ |
-- [] BDD
+- [ ] BDD
 
 Vivian               |
 -------------------- |
+test |
 - [ ] Page d'accueil
 
 Clara        |
