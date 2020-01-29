@@ -12,32 +12,27 @@
 - [x] Logo et nom Vegesia
 
 Alan |    
------------- 
+------------ |
 - [ ] BDD
 
 Vivian               |
 -------------------- |
-- [ ] Page d'accueil |
+- [ ] Page d'accueil
 
 Clara        |
 ------------ |
-- [ ] Modal connexion/inscription |
+- [ ] Modal connexion/inscription
 
 Maxime       |
 ------------ |
-- [ ] Header/footer en commun |
+- [ ] Header/footer en commun
 
 Yanis        |
 ------------ |
-- [ ] Page boutique qui varie en fonction de l'id |
+- [ ] Page boutique qui varie en fonction de l'id
 - [ ] Page panier |
 
 Tous         |
 ------------ |
-- [x] Logo et nom Vegesia |
-- [ ] 1 Powerpoint par partie |
-
-Alan |
------------- |
-- [ ] BDD |
-Tâche |
+- [x] Logo et nom Vegesia
+- [ ] 1 Powerpoint par partie
