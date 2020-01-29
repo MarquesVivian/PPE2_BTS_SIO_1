@@ -11,7 +11,7 @@
 - [ ] Modalité de paiement (demander a la banque pour savoir comment on fait pour un contrat de paiement en ligne)
 - [x] Logo et nom Vegesia
 
-Alan         
+Alan |    
 ------------ 
 - [ ] BDD
 
