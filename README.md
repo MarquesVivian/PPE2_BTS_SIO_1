@@ -13,5 +13,5 @@
 
 Alan | Vivian | Clara | Maxime | Yanis
 ------------ | ------------- | ------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2
+- [ ] BDD  | Content from cell 2 |
 Content in the first column | Content in the second column
