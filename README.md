@@ -15,8 +15,8 @@ Alan         |
 ------------ |
 - [ ] BDD |
 
-Vivian       |
------------- |
+Vivian               |
+-------------------- |
 - [ ] Page d'accueil |
 
 Clara        |
