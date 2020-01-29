@@ -15,11 +15,11 @@ Vivian               |
 Clara        |
 ------------ |
 - [ ] Modal connexion/inscription
+- [ ] Page profil client
 
 Maxime       |
 ------------ |
 - [ ] Header/footer en commun
-- [ ] Page profil client
 
 Yanis        |
 ------------ |
