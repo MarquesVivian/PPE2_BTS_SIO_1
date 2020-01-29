@@ -7,8 +7,7 @@ Alan |
 
 Vivian               |
 -------------------- |
-test |
-- [ ] Page d'accueil
+[ ] Page d'accueil |
 
 Clara        |
 ------------ |
