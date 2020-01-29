@@ -1,5 +1,6 @@
 # PPE2_BTS_SIO_1
 ## Site de vente de fruits et légumes *Vegesia*
+### Tâche à effectuer
 
 Alan |    
 ------------ |
