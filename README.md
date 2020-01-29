@@ -1,6 +1,8 @@
 # PPE2_BTS_SIO_1
 ## Site de vente de fruits et légumes *Vegesia*
-### Tâche à effectuer
+### Tâches à effectuer réparties entre les membres du groupe
+
+---------------------------------------------------------------
 
 Alan |    
 ------------ |
