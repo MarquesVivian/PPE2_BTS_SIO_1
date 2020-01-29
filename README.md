@@ -7,7 +7,7 @@ Alan |
 
 Vivian               |
 -------------------- |
-[ ] Page d'accueil |
+- [ ] Page d'accueil |
 
 Clara        |
 ------------ |
