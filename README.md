@@ -11,8 +11,5 @@
 - [ ] Modalité de paiement (demander a la banque pour savoir comment on fait pour un contrat de paiement en ligne)
 - [x] Logo et nom Vegesia
 
-Alan         | Vivian        | Clara         | Maxime        | Yanis         | Tous
------------- | ------------- | ------------- | ------------- | ------------- | -------------
-- [ ] BDD  | - [ ] Page d'accueil | - [ ] Modal connexion/inscription | - [ ] Header/footer en commun 
- | - [ ] Page boutique qui varie en fonction de l'id
- | | | | - [ ] Page panier |
+Alan        
+------------
