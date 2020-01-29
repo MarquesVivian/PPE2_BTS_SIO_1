@@ -19,6 +19,7 @@ Clara        |
 Maxime       |
 ------------ |
 - [ ] Header/footer en commun
+- [ ] Page profil client
 
 Yanis        |
 ------------ |
