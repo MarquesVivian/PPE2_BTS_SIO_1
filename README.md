@@ -5,7 +5,7 @@
 - [ ] Modal connexion/inscription                   Clara
 - [ ] Page boutique qui varie en fonction de l'id   Yanis
 - [ ] Header/footer en commun                       Maxime
-- [ ] Page pianier                                  Yanis
+- [ ] Page panier                                   Yanis
 - [ ] Cahier des charges (genre lourde ou pas)
 - [ ] 1 Powerpoint par partie
 - [ ] Modalité de paiement (demander a la banque pour savoir comment on fait pour un contrat de paiement en ligne)
@@ -15,3 +15,4 @@ Alan         | Vivian        | Clara         | Maxime        | Yanis         | T
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 - [ ] BDD  | - [ ] Page d'accueil | - [ ] Modal connexion/inscription | - [ ] Header/footer en commun 
  | - [ ] Page boutique qui varie en fonction de l'id
+ | | | | - [ ] Page panier |
