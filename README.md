@@ -37,6 +37,7 @@ Tous         |
 - [x] Logo et nom Vegesia |
 - [ ] 1 Powerpoint par partie |
 
-Alan | Second Header
------------- | -------------
-- [ ] BDD | Content from cell 2
+Alan |
+------------ |
+- [ ] BDD |
+Tâche |
