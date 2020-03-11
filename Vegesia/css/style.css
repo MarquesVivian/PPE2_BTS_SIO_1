@@ -1,0 +1,24 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+td{
+    text-align: center;
+}
+table{
+    border: 2px solid black;
+}
+
+.legume{
+    background-color: #c1d13a;
+}
+
+.Fruit{
+    background-color: #c1d13a;
+}
+img{
+    max-height: 180px;
+}
+
